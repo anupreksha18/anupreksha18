@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anupreksha Negi</h1>
-<h3 align="center">Frontend Developer | Building Real-World Projects | Future Full-Stack Engineer</h3>
+<h3 align="center">Frontend Developer | Aspiring Full-Stack Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anupreksha18&label=Profile%20views&color=0e75b6&style=flat" alt="anupreksha18" />
@@ -9,20 +9,20 @@
 
 ### 🚀 About Me
 - 🎓 Final Year BCA Student  
-- 💻 Currently building **real-world projects** to crack internships  
-- 🌱 Learning **Backend + Full Stack Development (Node.js)**  
-- 🎯 Goal: Become a **job-ready developer by 2026**  
-- ⚡ Fun fact: I don’t just learn — I **build**
+- 💻 Focused on building real-world web projects  
+- 🌱 Currently learning Backend (Node.js)  
+- 🎯 Goal: Crack a good internship and become job-ready  
+- ⚡ I believe in learning by building, not just watching tutorials  
 
 ---
 
-### 📌 Featured Projects
-- 🛒 **E-commerce Website (with AI Review Summarizer)** *(in progress)*  
-- 📊 **Finance Tracker App**  
-- 📅 **QueueMe – Digital Queue System**  
-- 🌐 **Portfolio Website**  
+### 📌 Projects
+- 🛒 E-commerce Website *(In Progress)*  
+- 📊 Finance Tracker App  
+- 📅 QueueMe – Digital Queue System  
+- 🌐 Personal Portfolio Website  
 
-👉 *(Add GitHub repo links here once ready — don’t leave this empty)*
+👉 *(Add your GitHub links here — don’t leave this empty)*  
 
 ---
 
@@ -50,14 +50,14 @@
 ---
 
 ### 📫 Connect With Me
-- 📧 **intern.anu.negi@gmail.com**
-- 💼 [LinkedIn](https://linkedin.com/in/anuprekshan18)
+- 📧 intern.anu.negi@gmail.com  
+- 💼 https://linkedin.com/in/anuprekshan18  
 
 ---
 
-### ⚡ What I'm Working On Right Now
-- 🔥 Strengthening DSA for interviews  
-- ⚡ Building full-stack projects  
-- 🎯 Preparing for internships  
+### ⚡ Currently Working On
+- Strengthening DSA  
+- Building full-stack projects  
+- Preparing for internships  
 
 ---
